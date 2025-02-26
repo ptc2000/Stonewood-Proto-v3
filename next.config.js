@@ -2,7 +2,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: '/new-product-marketing-hub',
+  basePath: '/Stonewood-Proto-v3',
   trailingSlash: true,
 };
 
